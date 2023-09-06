@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Castelom.Cinefilo.MovieTheaterAPI.props" />
+</Project>
